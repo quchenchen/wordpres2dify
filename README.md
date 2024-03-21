@@ -61,6 +61,9 @@ If you encounter any issues while using the plugin, please check the following:
 
 If you would like to contribute to the development of this plugin, please fork the repository and submit a pull request with your changes. We welcome bug reports, feature requests, and code improvements.
 
+## Dify
+https://github.com/langgenius/dify/releases
+
 ## License
 
 This plugin is released under the [GPL-2.0+ License](https://www.gnu.org/licenses/gpl-2.0.html).
