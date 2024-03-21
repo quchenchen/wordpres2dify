@@ -64,6 +64,8 @@ If you would like to contribute to the development of this plugin, please fork t
 ## Dify
 https://github.com/langgenius/dify/releases
 
+https://docs.dify.ai/
+
 ## License
 
 This plugin is released under the [GPL-2.0+ License](https://www.gnu.org/licenses/gpl-2.0.html).
